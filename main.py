@@ -15,7 +15,7 @@ POEM = (
     "We turn together \u2014 click \u2014\n"
     "and the door swings wide\n"
     "on a room neither of us built alone,\n"
-    "where the light was already on.\n"
+    "where the light was on all along.\n"
 )
 
 
